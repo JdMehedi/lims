@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'welcome' => 'Welcome, this is Signup module.',
+    'reg_title' => 'Registration process (For the first time only)',
+    'nationality' => 'Select nationality',
+    'nationality_n' => 'Nationality',
+    'nationality_type' => 'Nationality type',
+    'bangladeshi' => 'Bangladeshi',
+    'foreign' => 'Foreign',
+//    trans('Signup::messages.father_name')
+    'identity' => 'Identity',
+    'nid' => 'NID',
+    'tin' => 'TIN',
+    'tin_no' => 'TIN no.',
+    'nid_no' => 'NID no.',
+    'date_of_birth' => 'Date Of Birth',
+    'passport' => 'Passport',
+    'reg_process' => 'Registration process',
+    'identity_type' => 'Identity type',
+    'name' => 'Name',
+    'Designation' => 'Designation',
+    'passport_nationality' => 'Passport nationality',
+    'passport_type' => 'Passport type',
+    'passport_no' => 'Passport no',
+    'sure_name' => 'Surname',
+    'personal_no' => 'personal no ( NID, DOB )',
+    'expiry_date' => 'Expiry date',
+    'father_name' => 'Father name',
+    'pic' => 'Photo',
+];

@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'reg_title' => 'রেজিস্ট্রেশন প্রসেস (শুধুমাত্র প্রথম বার)',
+    'nationality' => 'জাতীয়তা নির্বাচন করুন',
+    'nationality_n' => 'জাতীয়তা',
+    'nationality_type' => 'জাতীয়তার ধরণ',
+    'bangladeshi' => 'বাংলাদেশী',
+    'foreign' => 'বিদেশী',
+//    trans('Signup::messages.father_name')
+    'identity' => 'আইডেন্টিটি',
+    'nid' => 'জাতীয় পরিচয়পত্র',
+    'tin' => ' ই-টিন',
+    'tin_no' => 'টিন নম্বর',
+    'nid_no' => 'জাতীয় পরিচয়পত্র নম্বর',
+    'date_of_birth' => 'জন্ম তারিখ',
+    'passport' => 'পাসপোর্ট',
+    'reg_process' => 'রেজিস্ট্রেশন প্রসেস',
+    'identity_type' => 'আইডেন্টিটি  টাইপ',
+    'name' => 'নাম',
+    'Designation' => 'পদবী',
+    'passport_nationality' => 'পাসপোর্ট এর জাতীয়তা',
+    'passport_type' => 'পাসপোর্ট টাইপ',
+    'passport_no' => 'পাসপোর্ট নম্বর',
+    'sure_name' => 'উপনাম',
+    'personal_no' => 'ব্যক্তিগত নম্বর ( NID, Date of Birth )',
+    'expiry_date' => 'মেয়াদ শেষ হওয়ার তারিখ',
+    'father_name' => 'পিতার নাম',
+    'pic' => 'ছবি',
+];

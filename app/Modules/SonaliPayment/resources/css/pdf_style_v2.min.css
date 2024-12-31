@@ -1,0 +1,41 @@
+/*body{*/
+/*    min-height: calc(100vh - 120px);*/
+/*}*/
+html, body, div {
+    font-family: kalpurush;
+}
+.wrapper{
+    position: relative;
+    display: block;
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+.pdf-header{
+    position: relative;
+    padding-top: 15px;
+}
+table thead tr th{
+    font-weight: bold;
+}
+table thead tr th,
+table tbody tr td{
+    font-family: kalpurush;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 15px 15px;
+}
+.table-border thead tr th,
+.table-border tbody tr td{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+table .text-sep{
+    padding: 0 5px 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: bold;
+}
